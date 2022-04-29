@@ -5,7 +5,6 @@ categories: assignment
 permalink: "/dstr-roadmap/"
 ---
 
-<!doctype html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -1364,7 +1363,7 @@ body[class*="dark-ui"] .mde-preview .cm-error {
 </ul></div></div>
 <br data-line="185" data-line-end="185">
 <ul class="contains-task-list" data-line="187" data-line-end="187">
-<li class="task-list-item" data-line="187" data-line-end="187"><span class="ui checkbox"><input type="checkbox"><label></label></span> <strong data-line="187" data-line-end="187">Done</strong></li>
+<li class="task-list-item" data-line="187" data-line-end="187"><span class="ui checkbox"><input type="checkbox" checked=""><label></label></span> <strong data-line="187" data-line-end="187">Done</strong></li>
 </ul>
 
 
