@@ -5,6 +5,7 @@ categories: assignment
 permalink: "/dstr-roadmap/"
 ---
 
+<!doctype html>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -465,7 +466,7 @@ span.copy-code-to-clipboard-button-hide-text {
 .plantuml-error {
   white-space: normal;
 }
-</style><style source-path="C:\Users\nigel\AppData\Local\inkdrop\app-5.5.0\resources\app.asar\node_modules\github-preview\styles\github-markdown.css" context="inkdrop-preview" priority="1">@font-face {
+</style><style source-path="C:\Users\nigel\AppData\Local\inkdrop\app-5.5.1\resources\app.asar\node_modules\github-preview\styles\github-markdown.css" context="inkdrop-preview" priority="1">@font-face {
   font-family: octicons-anchor;
   src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
 }
@@ -1008,7 +1009,7 @@ span.copy-code-to-clipboard-button-hide-text {
     white-space: pre-wrap;
   }
 }
-</style><style source-path="C:\Users\nigel\AppData\Local\inkdrop\app-5.5.0\resources\app.asar\node_modules\github-preview\styles\github-markdown-dark.css" context="inkdrop-preview" priority="1">body[class*="dark-ui"] .mde-preview {
+</style><style source-path="C:\Users\nigel\AppData\Local\inkdrop\app-5.5.1\resources\app.asar\node_modules\github-preview\styles\github-markdown-dark.css" context="inkdrop-preview" priority="1">body[class*="dark-ui"] .mde-preview {
   color: rgba(255, 255, 255, 0.7);
 }
 body[class*="dark-ui"] .mde-preview a {
@@ -1326,7 +1327,7 @@ body[class*="dark-ui"] .mde-preview .cm-error {
 <li>Why we chose this</li>
 <li>Benefits</li>
 </ul><ul class="contains-task-list">
-<li class="task-list-item"><span class="ui checkbox"><input type="checkbox"><label></label></span> <strong>Done (Wong Jie Hao)</strong></li>
+<li class="task-list-item"><span class="ui checkbox"><input type="checkbox" checked=""><label></label></span> <strong>Done (Wong Jie Hao)</strong></li>
 </ul></div></div>
 <br data-line="140" data-line-end="140">
 <div class="custom-block admonition-note" data-line="142" data-line-end="147"><div class="custom-block-heading">2. Explanation of Doubly Linked List (Tutor)</div><div class="custom-block-body"><ul>
@@ -1335,7 +1336,7 @@ body[class*="dark-ui"] .mde-preview .cm-error {
 <li>Why we chose this</li>
 <li>Benefits</li>
 </ul><ul class="contains-task-list">
-<li class="task-list-item"><span class="ui checkbox"><input type="checkbox"><label></label></span> <strong>Done (Wong Jie Hao)</strong></li>
+<li class="task-list-item"><span class="ui checkbox"><input type="checkbox" checked=""><label></label></span> <strong>Done (Wong Jie Hao)</strong></li>
 </ul></div></div>
 <br data-line="149" data-line-end="149">
 <div class="custom-block admonition-note" data-line="152" data-line-end="154"><div class="custom-block-heading">3. Explanation of Classes &amp; Struct</div><div class="custom-block-body"><ul>
@@ -1420,7 +1421,7 @@ body[class*="dark-ui"] .mde-preview .cm-error {
 
 
 
-<table data-line="189" data-line-end="199"><thead data-line="189" data-line-end="189"><tr data-line="189" data-line-end="189"><th data-line="189" data-line-end="189">Function</th><th data-line="189" data-line-end="189">Status</th><th data-line="189" data-line-end="189">Member</th></tr></thead><tbody data-line="191" data-line-end="199"><tr data-line="191" data-line-end="191"><td data-line="191" data-line-end="191">Add a Tutor Record</td><td data-line="191" data-line-end="191">☑</td><td data-line="191" data-line-end="191">Ang Ru Xian</td></tr><tr data-line="192" data-line-end="192"><td data-line="192" data-line-end="192">Display All Records</td><td data-line="192" data-line-end="192">☑</td><td data-line="192" data-line-end="192">Ang Ru Xian</td></tr><tr data-line="193" data-line-end="193"><td data-line="193" data-line-end="193">Search a Tutor by Tutor ID</td><td data-line="193" data-line-end="193">☐</td><td data-line="193" data-line-end="193">Tong Zheng Hee</td></tr><tr data-line="194" data-line-end="194"><td data-line="194" data-line-end="194">Search Tutors by overall performance (Rating)</td><td data-line="194" data-line-end="194">☐</td><td data-line="194" data-line-end="194">Tong Zheng Hee</td></tr><tr data-line="195" data-line-end="195"><td data-line="195" data-line-end="195">Sort and display by Tutors ID in ascending order</td><td data-line="195" data-line-end="195">☐</td><td data-line="195" data-line-end="195">Tong Zheng Hee</td></tr><tr data-line="196" data-line-end="196"><td data-line="196" data-line-end="196">Sort and display by Tutors Hourly Pay Rate in ascending order</td><td data-line="196" data-line-end="196">☐</td><td data-line="196" data-line-end="196">Tong Zheng Hee</td></tr><tr data-line="197" data-line-end="197"><td data-line="197" data-line-end="197">Sort and display by Tutors Overall Performance in ascending order</td><td data-line="197" data-line-end="197">☐</td><td data-line="197" data-line-end="197">Tong Zheng Hee</td></tr><tr data-line="198" data-line-end="198"><td data-line="198" data-line-end="198">Modify a Tutor Record</td><td data-line="198" data-line-end="198">☑</td><td data-line="198" data-line-end="198">Ang Ru Xian</td></tr><tr data-line="199" data-line-end="199"><td data-line="199" data-line-end="199">Delete a Tutor Record</td><td data-line="199" data-line-end="199">☑</td><td data-line="199" data-line-end="199">Ang Ru Xian</td></tr></tbody></table>
+<table data-line="189" data-line-end="199"><thead data-line="189" data-line-end="189"><tr data-line="189" data-line-end="189"><th data-line="189" data-line-end="189">Function</th><th data-line="189" data-line-end="189">Status</th><th data-line="189" data-line-end="189">Member</th></tr></thead><tbody data-line="191" data-line-end="199"><tr data-line="191" data-line-end="191"><td data-line="191" data-line-end="191">Add a Tutor Record</td><td data-line="191" data-line-end="191">☑</td><td data-line="191" data-line-end="191">Ang Ru Xian</td></tr><tr data-line="192" data-line-end="192"><td data-line="192" data-line-end="192">Display All Records</td><td data-line="192" data-line-end="192">☑</td><td data-line="192" data-line-end="192">Ang Ru Xian</td></tr><tr data-line="193" data-line-end="193"><td data-line="193" data-line-end="193">Search a Tutor by Tutor ID</td><td data-line="193" data-line-end="193">☑</td><td data-line="193" data-line-end="193">Tong Zheng Hee</td></tr><tr data-line="194" data-line-end="194"><td data-line="194" data-line-end="194">Search Tutors by overall performance (Rating)</td><td data-line="194" data-line-end="194">☑</td><td data-line="194" data-line-end="194">Tong Zheng Hee</td></tr><tr data-line="195" data-line-end="195"><td data-line="195" data-line-end="195">Sort and display by Tutors ID in ascending order</td><td data-line="195" data-line-end="195">☑</td><td data-line="195" data-line-end="195">Tong Zheng Hee</td></tr><tr data-line="196" data-line-end="196"><td data-line="196" data-line-end="196">Sort and display by Tutors Hourly Pay Rate in ascending order</td><td data-line="196" data-line-end="196">☑</td><td data-line="196" data-line-end="196">Tong Zheng Hee</td></tr><tr data-line="197" data-line-end="197"><td data-line="197" data-line-end="197">Sort and display by Tutors Overall Performance in ascending order</td><td data-line="197" data-line-end="197">☑</td><td data-line="197" data-line-end="197">Tong Zheng Hee</td></tr><tr data-line="198" data-line-end="198"><td data-line="198" data-line-end="198">Modify a Tutor Record</td><td data-line="198" data-line-end="198">☑</td><td data-line="198" data-line-end="198">Ang Ru Xian</td></tr><tr data-line="199" data-line-end="199"><td data-line="199" data-line-end="199">Delete a Tutor Record</td><td data-line="199" data-line-end="199">☑</td><td data-line="199" data-line-end="199">Ang Ru Xian</td></tr></tbody></table>
 <h3 data-line="202" data-line-end="202">Struct</h3>
 <ul class="contains-task-list" data-line="204" data-line-end="204">
 <li class="task-list-item" data-line="204" data-line-end="204"><span class="ui checkbox"><input type="checkbox" checked=""><label></label></span> <strong data-line="204" data-line-end="204">Done (Tong Zheng Hee)</strong></li>
@@ -1494,8 +1495,7 @@ body[class*="dark-ui"] .mde-preview .cm-error {
 <li>Why we chose this</li>
 <li>Benefits</li>
 </ul><ul class="contains-task-list">
-<li class="task-list-item"><span class="ui checkbox"><input type="checkbox"><label></label></span> <strong>Done (Tong Zheng Hee)</strong></li>
+<li class="task-list-item"><span class="ui checkbox"><input type="checkbox" checked=""><label></label></span> <strong>Done (Tong Zheng Hee)</strong></li>
 </ul></div></div></div>
   </body>
 </html>
-
